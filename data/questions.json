@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Which movie features a young wizard named Harry who attends Hogwarts?",
+      "options": [
+        "Harry Potter",
+        "The Lord of the Rings",
+        "Percy Jackson",
+        "Narnia"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the kingdom in the movie Frozen?",
+      "options": ["Arendelle", "Narnia", "Eldoria", "Winterfell"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In 'The Lion King', what is Simba’s father’s name?",
+      "options": ["Scar", "Mufasa", "Timon", "Zazu"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which movie features the quote 'May the Force be with you'?",
+      "options": [
+        "Star Wars",
+        "Star Trek",
+        "Guardians of the Galaxy",
+        "Avatar"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who lives in a pineapple under the sea?",
+      "options": ["Nemo", "Dory", "SpongeBob SquarePants", "Patrick Star"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "In 'Avengers: Endgame', who says 'I am Iron Man' before snapping his fingers?",
+      "options": ["Thor", "Captain America", "Tony Stark", "Hulk"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which TV show follows the lives of Ross, Rachel, Monica, Chandler, Joey, and Phoebe?",
+      "options": ["Friends", "How I Met Your Mother", "Seinfeld", "The Office"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In 'The Matrix', does Neo take the red pill or the blue pill to learn the truth?",
+      "options": ["Red pill", "Blue pill", "Both", "Neither"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the clownfish in 'Finding Nemo'?",
+      "options": ["Nemo", "Marlin", "Dory", "Bruce"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In 'Toy Story', what is the name of the cowboy doll?",
+      "options": ["Woody", "Buzz", "Jessie", "Andy"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which series features dragons and the Iron Throne?",
+      "options": [
+        "The Witcher",
+        "House of the Dragon",
+        "Game of Thrones",
+        "Shadow and Bone"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "In the movie 'Up', what is the old man's name?",
+      "options": ["Carl", "Russell", "Doug", "Kevin"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which Marvel superhero uses a shield made of vibranium?",
+      "options": [
+        "Captain Marvel",
+        "Iron Man",
+        "Captain America",
+        "Black Panther"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "In 'Shrek', what kind of creature is Donkey’s wife?",
+      "options": ["Dragon", "Ogre", "Fairy", "Mermaid"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the streaming service that released 'Stranger Things'?",
+      "options": ["Netflix", "HBO Max", "Disney+", "Amazon Prime"],
+      "correctOption": 0,
+      "points": 10
+    }
+  ]
+}

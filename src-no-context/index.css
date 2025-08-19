@@ -1,18 +1,11 @@
 :root {
-  /* --color-darkest: #343a40;
+  --color-darkest: #343a40;
   --color-dark: #495057;
   --color-medium: #ced4da;
   --color-light: #f1f3f5;
 
   --color-theme: #1098ad;
-  --color-accent: #ffa94d; */
-
-  --color-darkest: #0d1b2a;
-  --color-dark: #27374d;
-  --color-medium: #ced4da;
-  --color-light: #f1f3f5;
-  --color-theme: #22b690;
-  --color-accent: #f25c54;
+  --color-accent: #ffa94d;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap");
@@ -70,16 +63,16 @@ img {
 
 h1 {
   font-family: "Codystar";
-  font-size: 5.8rem;
+  font-size: 5.6rem;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 3.6rem;
   margin-bottom: 2rem;
 }
 
 h3 {
-  font-size: 2.1rem;
+  font-size: 2.4rem;
   font-weight: 600;
   margin-bottom: 4rem;
 }
