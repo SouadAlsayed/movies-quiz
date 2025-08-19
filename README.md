@@ -2,7 +2,7 @@
 
 Interactive quiz app built with React featuring timer, progress tracking, and high score system.
 
-📜 Available Scripts
+## 📜 Available Scripts
 
 npm start - Run in development mode
 <br/>
