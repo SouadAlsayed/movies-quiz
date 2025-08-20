@@ -2,14 +2,6 @@
 
 Interactive quiz app built with React featuring timer, progress tracking, and high score system.
 
-## 📜 Available Scripts
-
-npm start - Run in development mode
-<br/>
-npm test - Run tests
-<br/>
-npm run build - Build for production
-
 ## ✨ Features
 
 - **Quiz System:** Multiple choice questions with instant feedback
@@ -17,6 +9,14 @@ npm run build - Build for production
 - **Progress Bar:** Visual progress tracking through questions
 - **High Score:** Persistent high score tracking
 - **State Management:** Powered by useReducer and Context API
+
+
+## 📜 Available Scripts
+
+ - Run in development mode `npm start`
+ - Run tests `npm test`
+ - Build for production `npm run build`
+
 
 ## 🛠️ Tech Stack
 React • useReducer • Context API • CSS3
